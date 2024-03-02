@@ -1,4 +1,4 @@
-name = "ghn77" # todo
+name = "ghn7" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
@@ -12,4 +12,4 @@ compatibility_date = "2023-05-26"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
 # API_HOST = "api.v2board.com"
-UUID = "c1a22933-4a42-48b5-8069-1ea7ba06a821"
+UUID = "bf6d4fd3-ebe4-45c8-9a20-5fcb19055951"
